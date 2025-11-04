@@ -13,6 +13,12 @@ It provides a smooth shopping experience — users can browse products, manage t
 يتيح تجربة تسوق سهلة تشمل تصفح المنتجات، إدارة السلة، وإتمام عمليات الشراء بشكل بسيط وفعّال.
 
 ---
+## 🔐 Default Admin Login
+
+Email: admin@smartshop.com
+Password: Admin@123
+
+---
 
 ## 🛠️ Tech Stack / التقنيات المستخدمة
 
@@ -81,3 +87,4 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 **© 2025 Sayed Shabaan — All Rights Reserved**
+
