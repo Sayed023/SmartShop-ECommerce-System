@@ -15,8 +15,8 @@ It provides a smooth shopping experience — users can browse products, manage t
 ---
 ## 🔐 Default Admin Login
 
-* Email: admin@smartshop.com
-* Password: Admin@123
+* **Email:** admin@smartshop.com
+* **Password:** Admin@123
 
 ---
 
@@ -87,5 +87,6 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 **© 2025 Sayed Shabaan — All Rights Reserved**
+
 
 
